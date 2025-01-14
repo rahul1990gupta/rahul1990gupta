@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🧠 I's currently learning Ruby on Rails.
+- 🏗️ I'am currently building SaaS toolkit for dubbing videos.
+  
 <!--
 **rahul1990gupta/rahul1990gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
